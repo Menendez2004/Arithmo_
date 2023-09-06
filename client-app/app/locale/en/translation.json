@@ -1,0 +1,100 @@
+{
+    "Login": {
+        "email": "email",
+        "password": "password",
+        "button1": "Login",
+        "button2": "Register",
+        "text": "Don't have an account?"
+    },
+    "Register": {
+        "name": "FirstName",
+        "lastname": "Lastname",
+        "age": "Age",
+        "email":"Email",
+        "password":"Password",
+        "confirm_passowrd": "Confirm password",
+        "button1": "Select an image",
+        "button2": "Confirm",
+        "button3": "Login",
+        "button4":"Do you already have an account?"
+    },
+    "SelectDifult":{
+        "title": "Difficult",
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard",
+        "expert": "Expert",
+        "easy2": "Easy Difficulty",
+        "medium2": "Medium Difficulty",
+        "hard2": "Hard Difficulty",
+        "expert2": "Expert Difficulty"
+    },
+    "Levels":{
+        "title":"Levels",
+        "text1": "Completed",
+        "text2": "Play",
+        "text3":"Blocked",
+        "button": "Return"
+    },
+    "Profile":{
+        "title": "User Info",
+        "name": "FirstName",
+        "lastname": "Lastname",
+        "age": "Age",
+        "email": "Email",
+        "button1": "Log Out",
+        "button2": "Edit profile"
+    },
+    "EditProfile":{
+        "name":"FirstName",
+        "lastname":"Lastname",
+        "email":"Email",
+        "age":"Age"
+    },
+    "Settings":{
+        "button1":"Spanish",
+        "button2":"English",
+        "text": "Translate app:"
+    },
+    "Nav":{
+        "home": "Difficulties",
+        "profile": "Profile",
+        "settings": "Settings"
+    },
+    "Easyscreen":{
+        "question1":"Lucky has a bag of gold coins. He hides 21 gold coins in the backyard and 14 in the kitchen. Lucky still has 13 coins to hide. How many gold coins were in Lucky's bag at the beginning?",
+        "question2":"There were 96 books at a garage sale. Arnold bought 32 books and Mel bought 31. How many books are left in the garage sale?",
+        "question3":"Solve the next multiplication:",
+        "question4":"Solve the next division",
+        "Answer1":"Gold coins",
+        "Answer2":"Books"
+    },
+    "Mediumscreen":{
+        "question1":"Solve the following addition of fractions",
+        "question2":"Solve the following fraction subtraction",
+        "question3":"Solve the following fraction multiplication",
+        "question4":"Solve the following division of fractions",
+        "Answer1":"Gold coins",
+        "Answer2":"Books"
+    },
+    "Hardscreen":{
+        "question1":"Solve the next polynomial",
+        "question2":"Solve the following polynomial multiplication",
+        "question3":"Solve the following polynomial division",
+        "question4":"Solve the following polynomial sum",
+        "Answer1":"Quotient",
+        "Answer2":"Residue"
+    },
+    "Expertscreen":{
+        "question1":"Solve the following factoring case"
+    },
+    "Modals":{
+        "ModalWin":{
+            "button1":"Next level",
+            "button2":"Home"
+        },
+        "ModalOver":{
+            "button":"Try again"
+        }
+    }
+}

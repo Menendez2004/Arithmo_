@@ -1,0 +1,101 @@
+{
+    "Login":{
+        "email":"Correo electrónico",
+        "password":"Contraseña",
+        "button1":"Ingresar",
+        "button2":"Registrarse",
+        "text":"¿No tienes una cuenta?"
+    },
+    "Register":{
+        "name": "Nombre",
+        "lastname":"Apellido",
+        "age":"Edad",
+        "email":"Correo electrónico",
+        "password":"Contraseña",
+        "confirm_passowrd" : "Confirmar contraseña",
+        "button1":"Selecciona una imagen",
+        "button2":"Confirmar",
+        "button3":"Iniciar Sesión",
+        "button4":"¿Ya tienes una cuenta?"
+    },
+    "SelectDifult":{
+        "title":"Dificulades",
+        "easy":"Fácil",
+        "medium":"Medio",
+        "hard":"Difícil",
+        "expert":"Experto",
+        "easy2":"Dificultad Fácil",
+        "medium2":"Dificultad Medio",
+        "hard2":"Dificultad Difícil",
+        "expert2":"Dificultad Experto"
+    },
+    "Levels":{
+        "title":"Niveles",
+        "text1":"Completado",
+        "text2":"Jugar",
+        "text3":"Bloqueado",
+        "button":"Regresar",
+        "question":"Pregunta del nivel",
+        "answer":"Respuesta"
+    },
+    "Profile":{
+        "title":"Información del usuario",
+        "name": "Nombre",
+        "lastname":"Apellido",
+        "age":"Edad",
+        "email":"Correo electrónico",
+        "button1":"Cerrar sesión",
+        "button2":"Editar perfil"
+    },
+    "EditProfile":{
+        "name":"Nombre",
+        "lastname":"Apellido",
+        "email":"Correo electrónico",
+        "age":"Edad"
+    },
+    "Settings":{
+        "button1":"Español",
+        "button2":"Ingles",
+        "text":"Traducir app:"
+    },
+    "Nav":{
+        "home":"Dificultades",
+        "profile":"Perfil",
+        "settings":"Ajustes"
+    },
+    "Easyscreen":{
+        "question1":"Lucky tiene una bolsa de monedas de oro. Esconde 21 monedas de oro en el patio trasero y  14 en la cocina. Lucky todavía tiene 13 monedas para esconder. ¿Cuántas monedas de oro había en la bolsa de Lucky al principio?",
+        "question2":"Había  96 libros en una venta de garaje. Arnold compró 32 libros y Mel compró 31. ¿Cuántos libros quedan en la venta de garaje?",
+        "question3":"Resuelve la siguiente multiplicación",
+        "question4":"Resuelve la siguiente división",
+        "Answer1":"Monedas de oro",
+        "Answer2":"Libros"
+    },
+    "Mediumscreen":{
+        "question1":"Resuelve la siguiente suma de fracciones",
+        "question2":"Resuelve la siguiente resta de fracciones",
+        "question3":"Resuelve la siguiente multiplicación de fracciones",
+        "question4":"Resuelve la siguiente división de fracciones"
+    },
+    "Hardscreen":{
+        "question1":"Resuelve el siguiente polinomio",
+        "question2":"Resuelve la siguiente multiplicación de polinomio",
+        "question3":"Resuelve la siguiente división polinomio",
+        "question4":"Resuelve la siguiente suma polinomio",
+        "Answer1":"Cociente",
+        "Answer2":"Residuo"
+    },
+    "Expertscreen":{
+        "question1":"Resuelve el siguiente caso de factoreo"
+    },
+    "Modals":{
+        "ModalWin":{
+            "button1":"Siguiente nivel",
+            "button2":"Inicio"
+        },
+        "ModalOver":{
+            "button":"Intentar de nuevo"
+        }
+    }
+    
+}
