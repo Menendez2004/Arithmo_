@@ -1,4 +1,4 @@
-# README del Proyecto Arithmo
+# Arithmo
 
 ## Descripción del Proyecto
 
