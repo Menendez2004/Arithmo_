@@ -60,4 +60,4 @@ Este proyecto se distribuye bajo la Licencia MIT. Puedes encontrar los detalles 
 
 ---
 
-Esperamos que disfrutes de Arithmo y que este proyecto te ayude a desarrollar tus habilidades matemáticas mientras te diviertes. ¡Gracias por tu interés y apoyo! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de la página de GitHub del proyecto.
+Esperamos que disfrutes de Arithmo y que este proyecto te ayude a desarrollar tus habilidades matemáticas mientras te diviertes. ¡Gracias por tu interés y apoyo! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de la página de GitHub del proyecto o por nuestro correeo **arithmoaventur3@gmail.com
