@@ -12,7 +12,7 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 | JavaScript (JS)    | Se emplea tanto en el lado del cliente como del servidor para la lógica de juego y comunicación con la base de datos. | ![JavaScript](https://forkpoint.com/wp-content/uploads/js-logo.png)  |
 | TypeScript         | Se utiliza para agregar tipado estático a JavaScript, mejorando la calidad y seguridad del código. | ![TypeScript](https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp) |
 | Node.js            | Se emplea en el servidor para gestionar la lógica del juego, autenticación de usuarios y comunicación con la base de datos. | ![Node.js](https://cdn.iconscout.com/icon/free/png-256/free-node-js-3628954-3030179.png)           |
-| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://static.macupdate.com/products/31829/l/mysql-workbench-logo.png?v=1666354688)  |
+| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://dl2.macupdate.com/images/icons256/31829.png?time=1666354683)  |
 
 ## Objetivo del Proyecto
 
