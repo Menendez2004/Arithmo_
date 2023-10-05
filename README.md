@@ -6,14 +6,13 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 
 ## Tecnologías Utilizadas
 
-
 | Tecnología         | Descripción                                                                                     | Imagen                                       |
 |--------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
-| React Native       | Se utiliza para la creación de la aplicación móvil, brindando una experiencia nativa en iOS y Android. | ![React Native](https://miro.medium.com/v2/resize:fit:256/1*QY5S4senfFh-mIViSi5A_Q.png)          |
-| JavaScript (JS)    | Se emplea tanto en el lado del cliente como del servidor para la lógica de juego y comunicación con la base de datos. | ![JavaScript](https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI)  |
-| TypeScript         | Se utiliza para agregar tipado estático a JavaScript, mejorando la calidad y seguridad del código. | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png) |
-| Node.js            | Se emplea en el servidor para gestionar la lógica del juego, autenticación de usuarios y comunicación con la base de datos. | ![Node.js](https://i.pinimg.com/originals/99/49/77/994977c48fde58ac674a2d05ba5a5efb.png)           |
-| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8db7df3-eed9-477a-9352-1e0f34f31677/de5xpw6-2efaf2a1-29a1-48a5-942e-52579063ef55.png/v1/fill/w_282,h_282/mysql_workbench_icon_by_dagomx_de5xpw6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjgyIiwicGF0aCI6IlwvZlwvZDhkYjdkZjMtZWVkOS00NzdhLTkzNTItMWUwZjM0ZjMxNjc3XC9kZTV4cHc2LTJlZmFmMmExLTI5YTEtNDhhNS05NDJlLTUyNTc5MDYzZWY1NS5wbmciLCJ3aWR0aCI6Ijw9MjgyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dNQmyrf-DstvkKG3WyJUV68K7S-AxlOs5JjYyKgcp_0)  |
+| React Native       | Se utiliza para la creación de la aplicación móvil, brindando una experiencia nativa en iOS y Android. | ![React Native](https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp)          |
+| JavaScript (JS)    | Se emplea tanto en el lado del cliente como del servidor para la lógica de juego y comunicación con la base de datos. | ![JavaScript](https://forkpoint.com/wp-content/uploads/js-logo.png)  |
+| TypeScript         | Se utiliza para agregar tipado estático a JavaScript, mejorando la calidad y seguridad del código. | ![TypeScript](https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp) |
+| Node.js            | Se emplea en el servidor para gestionar la lógica del juego, autenticación de usuarios y comunicación con la base de datos. | ![Node.js](https://cdn.iconscout.com/icon/free/png-256/free-node-js-3628954-3030179.png)           |
+| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://static.macupdate.com/products/31829/l/mysql-workbench-logo.png?v=1666354688)  |
 
 ## Objetivo del Proyecto
 
