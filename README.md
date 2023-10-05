@@ -10,10 +10,10 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 | Tecnología         | Descripción                                                                                     | Imagen                                       |
 |--------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
 | React Native       | Se utiliza para la creación de la aplicación móvil, brindando una experiencia nativa en iOS y Android. | ![React Native](https://miro.medium.com/v2/resize:fit:256/1*QY5S4senfFh-mIViSi5A_Q.png)          |
-| JavaScript (JS)    | Se emplea tanto en el lado del cliente como del servidor para la lógica de juego y comunicación con la base de datos. | ![JavaScript](https://github.com/Menendez2004/Arithmo_ts/assets/87096313/e0d1e084-f33d-45d5-898b-57897f8acd8b)  |
+| JavaScript (JS)    | Se emplea tanto en el lado del cliente como del servidor para la lógica de juego y comunicación con la base de datos. | ![JavaScript](https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI)  |
 | TypeScript         | Se utiliza para agregar tipado estático a JavaScript, mejorando la calidad y seguridad del código. | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png) |
 | Node.js            | Se emplea en el servidor para gestionar la lógica del juego, autenticación de usuarios y comunicación con la base de datos. | ![Node.js](https://miro.medium.com/v2/resize:fit:256/1*bc9pmTiyKR0WNPka2w3e0Q.png)           |
-| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://bobcares.com/wp-content/uploads/2022/03/How-to-enable-autocomplete-MySQL-workbench-1.png)  |
+| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://i.pinimg.com/originals/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.png)  |
 
 ## Objetivo del Proyecto
 
