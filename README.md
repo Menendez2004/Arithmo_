@@ -7,7 +7,6 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 ## Tecnologías Utilizadas
 
 
-
 | Tecnología         | Descripción                                                                                     | Imagen                                       |
 |--------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
 | React Native       | Se utiliza para la creación de la aplicación móvil, brindando una experiencia nativa en iOS y Android. | ![React Native](https://miro.medium.com/v2/resize:fit:256/1*QY5S4senfFh-mIViSi5A_Q.png)          |
@@ -15,8 +14,6 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 | TypeScript         | Se utiliza para agregar tipado estático a JavaScript, mejorando la calidad y seguridad del código. | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png) |
 | Node.js            | Se emplea en el servidor para gestionar la lógica del juego, autenticación de usuarios y comunicación con la base de datos. | ![Node.js](https://miro.medium.com/v2/resize:fit:256/1*bc9pmTiyKR0WNPka2w3e0Q.png)           |
 | MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://bobcares.com/wp-content/uploads/2022/03/How-to-enable-autocomplete-MySQL-workbench-1.png)  |
-
-
 
 ## Objetivo del Proyecto
 
