@@ -6,18 +6,15 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 
 ## Tecnologías Utilizadas
 
-El proyecto Arithmo utiliza diversas tecnologías para su desarrollo:
+| Tecnología         | Descripción                                                                                     | Imagen                                       |
+|--------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
+| React Native       | Se utiliza para la creación de la aplicación móvil, brindando una experiencia nativa en iOS y Android. | ![React Native](https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png)          |
+| JavaScript (JS)    | Se emplea tanto en el lado del cliente como del servidor para la lógica de juego y comunicación con la base de datos. | ![JavaScript](https://github.com/Menendez2004/Arithmo_ts/assets/87096313/e0d1e084-f33d-45d5-898b-57897f8acd8b)  |
+| TypeScript         | Se utiliza para agregar tipado estático a JavaScript, mejorando la calidad y seguridad del código. | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png) |
+| Node.js            | Se emplea en el servidor para gestionar la lógica del juego, autenticación de usuarios y comunicación con la base de datos. | ![Node.js](https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png)           |
+| MySQL Workbench    | Se utiliza como la base de datos principal para almacenar información relevante del juego.   | ![MySQL Workbench](https://bobcares.com/wp-content/uploads/2022/03/How-to-enable-autocomplete-MySQL-workbench-1.png)  |
 
-- **React Native**: ![imagen no encontrada](https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png) Se utiliza para la creación de la aplicación móvil, lo que permite que Arithmo esté disponible en dispositivos iOS y Android, brindando una experiencia de usuario consistente y nativa.
-
-- **JavaScript (JS)**: Se utiliza tanto en el lado del cliente como del servidor para la lógica de juego y la comunicación con la base de datos.
-
-- **TypeScript**: Se utiliza en el desarrollo de Arithmo para agregar tipado estático a JavaScript, lo que mejora la calidad y la seguridad del código.
-
-- **Node.js**: Se utiliza en el servidor para manejar la lógica del juego, autenticación de usuarios y comunicación con la base de datos.
-
-- **MySQL Workbench**: Se emplea como la base de datos principal para almacenar información relevante del juego, como estadísticas de los usuarios, progreso y puntajes.
-
+Con esta tabla, los lectores podrán obtener una visión clara de las tecnologías utilizadas en el proyecto Arithmo, junto con sus respectivas descripciones e imágenes representativas.
 ## Objetivo del Proyecto
 
 El objetivo principal de Arithmo es proporcionar a los usuarios una forma interactiva y divertida de mejorar sus habilidades matemáticas. A través de un enfoque lúdico, Arithmo busca:
