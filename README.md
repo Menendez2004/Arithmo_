@@ -8,7 +8,7 @@ Arithmo es un proyecto de código abierto alojado en GitHub que se enfoca en ayu
 
 El proyecto Arithmo utiliza diversas tecnologías para su desarrollo:
 
-- **React Native**: Se utiliza para la creación de la aplicación móvil, lo que permite que Arithmo esté disponible en dispositivos iOS y Android, brindando una experiencia de usuario consistente y nativa.
+- **React Native**: ![imagen no encontrada](https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png) Se utiliza para la creación de la aplicación móvil, lo que permite que Arithmo esté disponible en dispositivos iOS y Android, brindando una experiencia de usuario consistente y nativa.
 
 - **JavaScript (JS)**: Se utiliza tanto en el lado del cliente como del servidor para la lógica de juego y la comunicación con la base de datos.
 
